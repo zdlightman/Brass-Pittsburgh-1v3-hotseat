@@ -1,0 +1,289 @@
+时代 1 开始。顺位：P1 → P2 → P4 → P3。
+P1 在 Clarksburg 建造 煤矿 I（Clarksburg）。造价 $5，从Clarksburg Coal/Iron购买铁，支付 $3。
+P2 在 Toledo 建造 煤油 II（Toledo）。造价 $11，收入 -1，从Toledo Coal/Iron购买煤，支付 $4。
+P4 在 Chicago 建造 制造 I（Chicago）。造价 $12。
+P3 在 Philadelphia 建造 制造 I（Philadelphia）。造价 $12。
+过回合，按收入等级结算：P1 等级 0，不收支，手头 $22；P2 等级 -1，支付 $1，手头 $14；P3 等级 0，不收支，手头 $18；P4 等级 0，不收支，手头 $18。
+第 2 回合（时代 1）。顺位：P1 → P4 → P3 → P2。
+P1 在 Wilkes-Barre 建造 煤矿 II（Wilkes-Barre）。造价 $8，从Wilkes-Barre Coal/Iron购买铁，支付 $2。
+P1 铺设（Chicago）：收入管道 Wilkes-Barre—Bradford & Olean（从Wilkes-Barre Coal/Iron购买铁，支付 $2）。揭开 Bradford & Olean，六角片：威士忌 +1。油田加上 1 桶，现有 1 桶。
+P1 再铺一条：轻轨 Wilkes-Barre—Bethlehem。（双修 $10，用 P1 在 Wilkes-Barre 的免费煤）
+P4 在 Indianapolis 建造 制造 I（Indianapolis）。造价 $12。
+P4 贷款（Baltimore），手头 $36。
+P3 在 Cleveland 建造 制造 I（Cleveland）。造价 $12。
+P3 贷款（New York），手头 $36。
+P2 在 Bethlehem 建造 煤矿 I（Bethlehem）。造价 $5，从Wilkes-Barre Coal/Iron购买铁，支付 $2。
+P2 贷款（Pittsburgh），手头 $37。
+过回合，按收入等级结算：P1 等级 0，不收支，手头 $0；P2 等级 -4，支付 $4，手头 $33；P3 等级 -3，支付 $3，手头 $33；P4 等级 -3，支付 $3，手头 $33。
+第 3 回合（时代 1）。顺位：P2 → P4 → P3 → P1。
+P2 在 Chicago 建造 煤油 II（Chicago）。造价 $11，收入 -1，从外部购买煤，支付 $7。
+P2 铺设（Erie）：收入管道 Toledo—Lima & Findlay（从Toledo Coal/Iron购买铁，支付 $4）。揭开 Lima & Findlay，六角片：现金 +$8。油田加上 1 桶，现有 1 桶。
+P4 在 Pittsburgh 建造 制造 II（Pittsburgh）。造价 $11，从外部购买钢，支付 $10。
+P4 铺设（Wilkes-Barre）：收入管道 Pittsburgh—Venango（从外部购买铁，支付 $7）。揭开 Venango，六角片：收入 +3 格。油田加上 1 桶，现有 1 桶。
+P3 在 Pittsburgh 建造 制造 II（Pittsburgh）。造价 $11，从外部购买钢，支付 $10。
+P3 铺设（Buffalo）：轻轨 Pittsburgh—Clarksburg（用 P1 在 Clarksburg 的免费煤）。
+P1 贷款（Saginaw），手头 $30。
+P1 铺设（Toledo）：轻轨 Cincinnati—Clarksburg（用 P1 在 Clarksburg 的免费煤）。
+P1 再铺一条：轻轨 Indianapolis—Cincinnati。（双修 $10，用 P1 在 Clarksburg 的免费煤） P1 的 Clarksburg 煤矿 I 资源用完，翻面，收入 +4 格。
+过回合，按收入等级结算：P1 等级 1，获得 $1，手头 $21；P2 等级 -5，支付 $5，手头 $14；P3 等级 -3，支付 $3，手头 $9；P4 等级 0，不收支，手头 $5。
+第 4 回合（时代 1）。顺位：P1 → P3 → P2 → P4。
+P1 贷款（Philadelphia），手头 $51。
+P1 铺设（制造/汽车）：轻轨 Bethlehem—Harrisburg（用 P1 在 Wilkes-Barre 的免费煤）。道路奖励：收入 +3 格。
+P1 再铺一条：储备管道 Clarksburg—Macksburg & Burning Springs。（双修 $10，从Clarksburg Coal/Iron购买铁，支付 $3）。揭开 Macksburg & Burning Springs，六角片：一次免费研发，要移除一块产业或跳过。油田加上 2 桶，现有 2 桶
+P1 免费研发，从个人版图移除 煤油 II。
+P3 贷款（Baltimore），手头 $39。
+P3 在 Clarksburg 建造 炼钢 I（铁/钢）。造价 $3，从外部购买焦炭，支付 $10。 P3 向Clarksburg Coal/Iron补充铁，获得 $3。 P3 向Clarksburg Coal/Iron补充铁，获得 $3。
+P2 铺设（制造/汽车）：储备管道 Chicago—Trenton（从外部购买铁，支付 $7）。揭开 Trenton，六角片：收入 +2 格。油田加上 1 桶，现有 1 桶。
+P2 贷款（Indianapolis），手头 $37。
+P4 铺设（煤油/石油）：重车 Indianapolis—Eads Bridge（用 P3 在 Clarksburg 的免费钢，从Eads Bridge Steel/Coke购买钢，支付 $5）。重车附带威士忌 1。
+P4 的管道 Pittsburgh—Venango 送出石油，收入 +2 格。
+P4 售卖 Indianapolis 的 制造 I、Pittsburgh 的 制造 II（Columbus）。首卖 Eads Bridge，P4 记首卖分 5。P4 在 Indianapolis 的 制造 I 翻面，收入 +4 格；P4 在 Pittsburgh 的 制造 II 翻面，收入 +2 格。
+过回合，按收入等级结算：P1 等级 1，获得 $1，手头 $39；P2 等级 -6，支付 $6，手头 $31；P3 等级 -6，支付 $6，手头 $26；P4 等级 4，获得 $4，手头 $4。
+第 5 回合（时代 1）。顺位：P4 → P2 → P1 → P3。
+P4 铺设（New York）：轻轨 Chicago—Indianapolis（从Clarksburg Coal/Iron购买煤，支付 $3）。道路奖励：威士忌 +1。
+P4 铺设（煤/焦炭）：储备管道 Indianapolis—Trenton（用 P3 在 Clarksburg 的免费铁）。这块油田已经揭开。油田加上 3 桶，现有 4 桶。 P3 的 Clarksburg 炼钢 I 资源用完，翻面，收入 +3 格。
+P2 铺设（铁/钢）：轻轨 Chicago—Saginaw（从Clarksburg Coal/Iron购买煤，支付 $3）。道路奖励：收入 +2 格；轻轨 Chicago—Toledo（双修 $10，从Clarksburg Coal/Iron购买煤，支付 $3）。
+P2 铺设（Boston）：轻轨 Saginaw—Detroit（从Toledo Coal/Iron购买煤，支付 $4）。
+P1 铺设（制造/汽车）：轻轨 Pittsburgh—Harrisburg（用 P1 在 Wilkes-Barre 的免费煤）。
+P1 再铺一条：重车 Harrisburg—Philadelphia。（双修 $10，从Philadelphia Steel/Coke购买钢，支付 $4，从Philadelphia Steel/Coke购买钢，支付 $4）。道路奖励：一次免费研发，要移除一块产业或跳过
+P1 免费研发，从个人版图移除 煤油 II。
+P1 在 Philadelphia 建造 炼钢 I（Philadelphia）。造价 $3，从Philadelphia Steel/Coke购买焦炭，支付 $4。 P1 向Toledo Coal/Iron补充铁，获得 $4。 P1 向Wilkes-Barre Coal/Iron补充铁，获得 $2。 P1 向Wilkes-Barre Coal/Iron补充铁，获得 $2。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 1。 P1 的 Philadelphia 炼钢 I 资源售完，翻面，收入 +3 格。
+P3 在 Wilkes-Barre 建造 煤矿 I（Wilkes-Barre）。造价 $5，从Wilkes-Barre Coal/Iron购买铁，支付 $2。 P3 向Toledo Coal/Iron补充煤，获得 $4。 P3 向Toledo Coal/Iron补充煤，获得 $4。 P3 向Clarksburg Coal/Iron补充煤，获得 $3。 P3 的 Wilkes-Barre 煤矿 I 资源售完，翻面，收入 +4 格。
+P1 的管道 Wilkes-Barre—Bradford & Olean 送出石油，收入 +2 格。
+P3 售卖 Pittsburgh 的 制造 II、Philadelphia 的 制造 I（Detroit）。P3 在 Pittsburgh 的 制造 II 翻面，收入 +2 格；P3 在 Philadelphia 的 制造 I 翻面，收入 +4 格。
+过回合，按收入等级结算：P1 等级 3，获得 $3，手头 $30；P2 等级 -4，支付 $4，手头 $7；P3 等级 4，获得 $4，手头 $34；P4 等级 4，获得 $4，手头 $5。
+第 6 回合（时代 1）。顺位：P4 → P3 → P2 → P1。
+P2 的管道 Toledo—Lima & Findlay 送出石油，收入 +2 格。
+P4 售卖 Chicago 的 制造 I（Buffalo）。P4 在 Chicago 的 制造 I 翻面，收入 +4 格。
+P4 贷款（Harrisburg），手头 $35。
+P3 铺设（New York）：重车 Cleveland—Pittsburgh（从Eads Bridge Steel/Coke购买钢，支付 $5，从Eads Bridge Steel/Coke购买钢，支付 $5）。重车附带威士忌 1。
+P3 铺设（煤/焦炭）：收入管道 Cleveland—Venango（从Wilkes-Barre Coal/Iron购买铁，支付 $2）。这块油田已经揭开。油田加上 0 桶，现有 0 桶。
+P2 贷款（Erie），手头 $37。
+P2 在 Detroit 建造 煤油 III（煤油/石油）。造价 $9，收入 -2，用 P2 在 Bethlehem 的免费煤。
+P1 在 Cleveland 建造 煤油 III（Cleveland）。造价 $9，收入 -2，用 P1 在 Wilkes-Barre 的免费煤。 P1 的 Wilkes-Barre 煤矿 II 资源用完，翻面，收入 +5 格。
+P1 在 Toledo 建造 煤油 III（Clarksburg）。造价 $9，收入 -2，用 P2 在 Bethlehem 的免费煤。
+过回合，按收入等级结算：P1 等级 2，获得 $2，手头 $14；P2 等级 -7，支付 $7，手头 $21；P3 等级 4，获得 $4，手头 $26；P4 等级 3，获得 $3，手头 $38。
+第 7 回合（时代 1）。顺位：P4 → P2 → P3 → P1。
+P4 铺设（煤/焦炭）：轻轨 Pittsburgh—Columbus（用 P2 在 Bethlehem 的免费煤）。道路奖励：威士忌 +1。 P2 的 Bethlehem 煤矿 I 资源用完，翻面，收入 +4 格。
+P4 在 Columbus 建造 煤矿 I（煤/焦炭）。造价 $5，从Clarksburg Coal/Iron购买铁，支付 $3。 P4 向Clarksburg Coal/Iron补充煤，获得 $3。 P4 向Clarksburg Coal/Iron补充煤，获得 $3。
+P2 铺设（Saginaw）：轻轨 Detroit—Canada（用 P4 在 Columbus 的免费煤）。道路奖励：威士忌 +1；轻轨 New York—Bethlehem（双修 $10，从Wilkes-Barre Coal/Iron购买煤，支付 $2）。 P4 的 Columbus 煤矿 I 资源用完，翻面，收入 +4 格。
+P2 铺设（Rochester）：轻轨 New York—Boston（从Wilkes-Barre Coal/Iron购买煤，支付 $2）。
+P3 铺设（铁/钢）：储备管道 Cleveland—Lima & Findlay（从Clarksburg Coal/Iron购买铁，支付 $3）。这块油田已经揭开。油田加上 2 桶，现有 2 桶。
+P2 的管道 Toledo—Lima & Findlay 送出石油，收入 +2 格。
+P3 售卖 Cleveland 的 制造 I（煤/焦炭）。P3 在 Cleveland 的 制造 I 翻面，收入 +4 格。
+P1 贷款（煤/焦炭），手头 $44。
+P1 在 Pittsburgh 建造 炼钢 II（Pittsburgh）。造价 $10，从Eads Bridge Steel/Coke购买焦炭，支付 $5。 P1 向Clarksburg Coal/Iron补充铁，获得 $3。 P1 向Clarksburg Coal/Iron补充铁，获得 $3。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 1。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 2。 P1 向Philadelphia Steel/Coke补充钢，获得 $4。 P1 的 Pittsburgh 炼钢 II 资源售完，翻面，收入 +2 格。
+过回合，按收入等级结算：P1 等级 1，获得 $1，手头 $50；P2 等级 -1，支付 $1，手头 $6；P3 等级 6，获得 $6，手头 $29；P4 等级 5，获得 $5，手头 $41。
+第 8 回合（时代 1）。顺位：P3 → P4 → P2 → P1。
+P3 铺设（铁/钢）：3分管道 Pittsburgh—Macksburg & Burning Springs（从Clarksburg Coal/Iron购买铁，支付 $3）。这块油田已经揭开。油田加上 1 桶，现有 3 桶。
+P3 铺设（制造/汽车）：轻轨 Toledo—Cleveland（从Wilkes-Barre Coal/Iron购买煤，支付 $2）。
+P4 升级替换 Columbus 的 煤矿 I，P4 记产业分 1。
+P4 在 Columbus 建造 焦炭 I（煤/焦炭）。造价 $18，从Clarksburg Coal/Iron购买煤，支付 $3，从Clarksburg Coal/Iron购买煤，支付 $3。 P4 向Canada Steel/Coke补充焦炭，获得 $6，P4 记焦炭分 4。 P4 向Eads Bridge Steel/Coke补充焦炭，获得 $5，P4 记焦炭分 4。 P4 的 Columbus 焦炭 I 资源售完，翻面，收入 +2 格。
+P4 铺设（铁/钢）：轻轨 Columbus—Cleveland（从Clarksburg Coal/Iron购买煤，支付 $3）。
+P2 的管道 Toledo—Lima & Findlay 送出石油，收入 +2 格。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P2 售卖 Detroit 的 煤油 III、Chicago 的 煤油 II、Toledo 的 煤油 II（煤油/石油）。首卖 Boston，没有分数。P2 在 Detroit 的 煤油 III 翻面，收入 +5 格；P2 在 Chicago 的 煤油 II 翻面，收入 +5 格；P2 在 Toledo 的 煤油 II 翻面，收入 +5 格。
+P2 铺设（煤油/石油）：轻轨 Chicago—Eads Bridge（从Toledo Coal/Iron购买煤，支付 $4）。
+P1 在 Harrisburg 建造 煤矿 II（Harrisburg）。造价 $8，从Clarksburg Coal/Iron购买铁，支付 $3。 P1 向Toledo Coal/Iron补充煤，获得 $4。 P1 向Clarksburg Coal/Iron补充煤，获得 $3。 P1 向Clarksburg Coal/Iron补充煤，获得 $3。 P1 向Clarksburg Coal/Iron补充煤，获得 $3。 P1 的 Harrisburg 煤矿 II 资源售完，翻面，收入 +5 格。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P1 售卖 Toledo 的 煤油 III（Detroit）。P1 在 Toledo 的 煤油 III 翻面，收入 +5 格。
+过回合，按收入等级结算：P1 等级 6，获得 $6，手头 $58；P2 等级 8，获得 $8，手头 $18；P3 等级 6，获得 $6，手头 $30；P4 等级 6，获得 $6，手头 $31。
+第 9 回合（时代 1）。顺位：P2 → P3 → P1 → P4。
+P4 铺设（制造/汽车）：轻轨 Cleveland—Erie（从Clarksburg Coal/Iron购买煤，支付 $3）。道路奖励：一次免费研发，要移除一块产业或跳过。
+P4 免费研发，从个人版图移除 煤油 II。
+P4 铺设（制造/汽车）：轻轨 Columbus—Indianapolis（从Clarksburg Coal/Iron购买煤，支付 $3）。
+过回合，按收入等级结算：P1 等级 6，获得 $6，手头 $64；P2 等级 8，获得 $8，手头 $26；P3 等级 6，获得 $6，手头 $36；P4 等级 6，获得 $6，手头 $31。
+时代计分：P1 的轻轨 Wilkes-Barre—Bethlehem（Wilkes-Barre 2 + Bethlehem 1），P1 记连接分 3。
+时代计分：P3 的轻轨 Pittsburgh—Clarksburg（Pittsburgh 2 + Clarksburg 1），P3 记连接分 3。
+时代计分：P1 的轻轨 Cincinnati—Clarksburg（Cincinnati 2 + Clarksburg 1），P1 记连接分 3。
+时代计分：P1 的轻轨 Indianapolis—Cincinnati（Indianapolis 2 + Cincinnati 2），P1 记连接分 4。
+时代计分：P1 的轻轨 Bethlehem—Harrisburg（Bethlehem 1 + Harrisburg 1），P1 记连接分 2。
+时代计分：P4 的重车 Indianapolis—Eads Bridge（Indianapolis 2 + Eads Bridge 2），P4 记连接分 4。
+时代计分：P4 的轻轨 Chicago—Indianapolis（Chicago 4 + Indianapolis 2），P4 记连接分 6。
+时代计分：P2 的轻轨 Chicago—Saginaw（Chicago 4 + Saginaw 0），P2 记连接分 4。
+时代计分：P2 的轻轨 Chicago—Toledo（Chicago 4 + Toledo 3），P2 记连接分 7。
+时代计分：P2 的轻轨 Saginaw—Detroit（Saginaw 0 + Detroit 1），P2 记连接分 1。
+时代计分：P1 的轻轨 Pittsburgh—Harrisburg（Pittsburgh 2 + Harrisburg 1），P1 记连接分 3。
+时代计分：P1 的重车 Harrisburg—Philadelphia（Harrisburg 1 + Philadelphia 2），P1 记连接分 3。
+时代计分：P3 的重车 Cleveland—Pittsburgh（Cleveland 2 + Pittsburgh 2），P3 记连接分 4。
+时代计分：P4 的轻轨 Pittsburgh—Columbus（Pittsburgh 2 + Columbus 2），P4 记连接分 4。
+时代计分：P2 的轻轨 Detroit—Canada（Detroit 1 + Canada 2），P2 记连接分 3。
+时代计分：P2 的轻轨 New York—Bethlehem（New York 0 + Bethlehem 1），P2 记连接分 1。
+时代计分：P2 的轻轨 New York—Boston（New York 0 + Boston 0），P2 记连接分 0。
+时代计分：P3 的轻轨 Toledo—Cleveland（Toledo 3 + Cleveland 2），P3 记连接分 5。
+时代计分：P4 的轻轨 Columbus—Cleveland（Columbus 2 + Cleveland 2），P4 记连接分 4。
+时代计分：P2 的轻轨 Chicago—Eads Bridge（Chicago 4 + Eads Bridge 2），P2 记连接分 6。
+时代计分：P4 的轻轨 Cleveland—Erie（Cleveland 2 + Erie 0），P4 记连接分 2。
+时代计分：P4 的轻轨 Columbus—Indianapolis（Columbus 2 + Indianapolis 2），P4 记连接分 4。
+时代计分：P2 的 Detroit 煤油 III，P2 记产业分 7。
+时代计分：P2 的 Chicago 煤油 II，P2 记产业分 4。
+时代计分：P4 的 Chicago 制造 I，P4 记产业分 5。
+时代计分：P2 的 Toledo 煤油 II，P2 记产业分 4。
+时代计分：P1 的 Toledo 煤油 III，P1 记产业分 7。
+时代计分：P3 的 Cleveland 制造 I，P3 记产业分 5。
+时代计分：P4 的 Indianapolis 制造 I，P4 记产业分 5。
+时代计分：P4 的 Columbus 焦炭 I，P4 记产业分 7。
+时代计分：P4 的 Pittsburgh 制造 II（收入等级 6），P4 记产业分 6。
+时代计分：P1 的 Pittsburgh 炼钢 II，P1 记产业分 5。
+时代计分：P3 的 Pittsburgh 制造 II（收入等级 6），P3 记产业分 6。
+时代计分：P3 的 Wilkes-Barre 煤矿 I，P3 记产业分 1。
+时代计分：P1 的 Wilkes-Barre 煤矿 II，P1 记产业分 2。
+时代计分：P1 的 Harrisburg 煤矿 II，P1 记产业分 2。
+时代计分：P2 的 Bethlehem 煤矿 I，P2 记产业分 1。
+时代计分：P1 的 Philadelphia 炼钢 I，P1 记产业分 4。
+时代计分：P3 的 Philadelphia 制造 I，P3 记产业分 5。
+时代计分：P1 的 Clarksburg 煤矿 I，P1 记产业分 1。
+时代计分：P3 的 Clarksburg 炼钢 I，P3 记产业分 4。
+Era 1 ends. Trains and flipped industries scored. Level I tiles leave the board.
+第 1 回合（时代 2）。顺位：P2 → P3 → P1 → P4。
+P2 在 Columbus 建造 煤矿 II（Columbus）。造价 $8，从外部购买铁，支付 $7。
+P2 铺设（铁/钢）：轻轨 Chicago—Toledo（从Toledo Coal/Iron购买煤，支付 $4）。
+P3 在 Wilkes-Barre 建造 煤矿 II（Wilkes-Barre）。造价 $8，从外部购买铁，支付 $7。 P3 向Wilkes-Barre Coal/Iron补充煤，获得 $2。 P3 向Wilkes-Barre Coal/Iron补充煤，获得 $2。 P3 向Wilkes-Barre Coal/Iron补充煤，获得 $2。
+P3 在 Pittsburgh 建造 煤矿 II（Pittsburgh）。造价 $8，从外部购买铁，支付 $7。
+P1 铺设（制造/汽车）：轻轨 Pittsburgh—Clarksburg（用 P3 在 Pittsburgh 的免费煤）。
+P1 再铺一条：轻轨 Baltimore—Clarksburg。（双修 $10，用 P3 在 Pittsburgh 的免费煤）
+P1 在 Baltimore 建造 煤油 III（Baltimore）。造价 $9，收入 -2，用 P3 在 Pittsburgh 的免费煤。
+P4 在 Clarksburg 建造 煤矿 II（Clarksburg）。造价 $8，从Clarksburg Coal/Iron购买铁，支付 $3。 P4 向Clarksburg Coal/Iron补充煤，获得 $3。 P4 向Clarksburg Coal/Iron补充煤，获得 $3。
+P2 的管道 Toledo—Lima & Findlay 送出石油，收入 +2 格。
+P4 在 Chicago 建造 制造 III（Chicago）。造价 $6，从Toledo Coal/Iron购买煤，支付 $4，从Toledo Coal/Iron购买煤，支付 $4。建成即翻面，现金 +$8，威士忌 +1。
+过回合，按收入等级结算：P1 等级 4，获得 $4，手头 $49；P2 等级 9，获得 $9，手头 $16；P3 等级 6，获得 $6，手头 $18；P4 等级 6，获得 $6，手头 $26。
+第 2 回合（时代 2）。顺位：P2 → P1 → P4 → P3。
+P2 在 Saginaw 建造 煤矿 II（Saginaw）。造价 $8，从外部购买铁，支付 $7。
+P2 铺设（制造/汽车）：轻轨 Chicago—Saginaw（用 P2 在 Saginaw 的免费煤）。道路奖励：收入 +2 格。
+P1 铺设（制造/汽车）：轻轨 Toledo—Cleveland（用 P2 在 Saginaw 的免费煤）。
+P1 再铺一条：轻轨 Pittsburgh—Harrisburg。（双修 $10，用 P2 在 Saginaw 的免费煤）
+P1 在 Clarksburg 建造 煤矿 III（Clarksburg）。造价 $10，从Toledo Coal/Iron购买铁，支付 $4。 P1 向Toledo Coal/Iron补充煤，获得 $4。 P1 向Toledo Coal/Iron补充煤，获得 $4。 P1 向Toledo Coal/Iron补充煤，获得 $4。
+P4 在 Saginaw 建造 煤矿 II（Saginaw）。造价 $8，从Toledo Coal/Iron购买铁，支付 $4。
+P4 铺设（煤油/石油）：重车 Indianapolis—Cincinnati（从Eads Bridge Steel/Coke购买钢，支付 $5，从Eads Bridge Steel/Coke购买钢，支付 $5）。
+P3 在 Pittsburgh 建造 煤矿 III（煤/焦炭）。造价 $10，从Toledo Coal/Iron购买铁，支付 $4。
+P3 贷款（煤油/石油），手头 $34。
+过回合，按收入等级结算：P1 等级 4，获得 $4，手头 $41；P2 等级 10，获得 $10，手头 $11；P3 等级 3，获得 $3，手头 $37；P4 等级 6，获得 $6，手头 $10。
+第 3 回合（时代 2）。顺位：P3 → P2 → P4 → P1。
+P3 在 Cleveland 建造 炼钢 II（Cleveland）。造价 $10，从外部购买焦炭，支付 $10。 P3 向Toledo Coal/Iron补充铁，获得 $4。 P3 向Toledo Coal/Iron补充铁，获得 $4。 P3 向Philadelphia Steel/Coke补充钢，获得 $4，P3 记市场分 2。
+P3 在 Philadelphia 建造 炼钢 II（Philadelphia）。造价 $10，从外部购买焦炭，支付 $10。 P3 向Toledo Coal/Iron补充铁，获得 $4。 P3 向Clarksburg Coal/Iron补充铁，获得 $3。
+P2 铺设（Buffalo）：轻轨 Columbus—Indianapolis（用 P2 在 Columbus 的免费煤）。
+P2 在 Cleveland 建造 煤油 III（Cleveland）。造价 $9，收入 -2，用 P2 在 Saginaw 的免费煤。 P2 的 Saginaw 煤矿 II 资源用完，翻面，收入 +5 格。
+P4 的管道 Pittsburgh—Venango 送出石油，收入 +2 格。
+P4 在 Baltimore 建造 制造 III（Baltimore）。造价 $6，用 P4 在 Saginaw 的免费煤，用 P4 在 Saginaw 的免费煤。建成即翻面，现金 +$8，威士忌 +1。
+P4 在 Indianapolis 建造 煤油 II（Indianapolis）。造价 $11，收入 -1，用 P2 在 Columbus 的免费煤。
+P1 在 Philadelphia 建造 煤油 IV（Philadelphia）。造价 $16，用 P4 在 Saginaw 的免费煤，用 P3 在 Philadelphia 的免费钢。
+P1 铺设（Rochester）：重车 Baltimore—The South（用 P3 在 Philadelphia 的免费钢，用 P3 在 Cleveland 的免费钢）。重车附带威士忌 1。
+P1 再铺一条：重车 Cincinnati—The South。（双修 $10，用 P3 在 Philadelphia 的免费钢，用 P3 在 Cleveland 的免费钢）。重车附带威士忌 1 P3 的 Philadelphia 炼钢 II 资源用完，翻面，收入 +2 格。 P3 的 Cleveland 炼钢 II 资源用完，翻面，收入 +2 格。
+过回合，按收入等级结算：P1 等级 4，获得 $4，手头 $19；P2 等级 11，获得 $11，手头 $13；P3 等级 5，获得 $5，手头 $21；P4 等级 6，获得 $6，手头 $7。
+第 4 回合（时代 2）。顺位：P2 → P4 → P1 → P3。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P2 售卖 Cleveland 的 煤油 III（Erie）。首卖 The South，没有分数。P2 在 Cleveland 的 煤油 III 翻面，收入 +5 格。
+P2 在 Columbus 建造 煤矿 III（煤/焦炭）。造价 $10，从Clarksburg Coal/Iron购买铁，支付 $3。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P4 售卖 Indianapolis 的 煤油 II（Boston）。P4 在 Indianapolis 的 煤油 II 翻面，收入 +5 格。
+P4 贷款（Toledo），手头 $37。
+P1 在 Harrisburg 建造 炼钢 II（Harrisburg）。造价 $10，从Eads Bridge Steel/Coke购买焦炭，支付 $5。 P1 向Clarksburg Coal/Iron补充铁，获得 $3。 P1 向Clarksburg Coal/Iron补充铁，获得 $3。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 1。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 2。
+P1 在 Baltimore 建造 煤油 IV（制造/汽车）。造价 $16，用 P1 在 Clarksburg 的免费煤，用 P1 在 Harrisburg 的免费钢。 P1 的 Harrisburg 炼钢 II 资源用完，翻面，收入 +2 格。
+P3 铺设（Pittsburgh）：重车 Cleveland—Erie（从Philadelphia Steel/Coke购买钢，支付 $4，从Philadelphia Steel/Coke购买钢，支付 $4）。道路奖励：一次免费研发，要移除一块产业或跳过。
+P3 免费研发，从个人版图移除 煤油 II。
+P3 铺设（Philadelphia）：轻轨 Buffalo—Wilkes-Barre（用 P3 在 Wilkes-Barre 的免费煤）。 P3 的 Wilkes-Barre 煤矿 II 资源用完，翻面，收入 +5 格。
+过回合，按收入等级结算：P1 等级 5，获得 $5，手头 $9；P2 等级 12，获得 $12，手头 $17；P3 等级 8，获得 $8，手头 $21；P4 等级 6，获得 $6，手头 $43。
+第 5 回合（时代 2）。顺位：P4 → P3 → P2 → P1。
+P4 铺设（煤油/石油）：4分管道 Erie—Venango（从Clarksburg Coal/Iron购买铁，支付 $3）。这块油田已经揭开。油田加上 2 桶，现有 2 桶。
+P4 铺设（New York）：重车 Chicago—Indianapolis（从Eads Bridge Steel/Coke购买钢，支付 $5，从Eads Bridge Steel/Coke购买钢，支付 $5）。道路奖励：威士忌 +1。
+P3 铺设（New York）：重车 Buffalo—Canada（从Canada Steel/Coke购买钢，支付 $6，从Canada Steel/Coke购买钢，支付 $6）。
+P3 贷款（Indianapolis），手头 $39。
+P2 在 Bethlehem 建造 煤矿 III（Bethlehem）。造价 $10，从外部购买铁，支付 $7。
+P2 铺设（New York）：轻轨 New York—Bethlehem（用 P2 在 Bethlehem 的免费煤）。
+P1 贷款（Chicago），手头 $39。
+P1 铺设（Bethlehem）：轻轨 Detroit—Toledo（用 P4 在 Saginaw 的免费煤）。 P4 的 Saginaw 煤矿 II 资源用完，翻面，收入 +5 格。
+P1 再铺一条：轻轨 Detroit—Canada。（双修 $10，用 P2 在 Columbus 的免费煤）。道路奖励：威士忌 +1
+过回合，按收入等级结算：P1 等级 2，获得 $2，手头 $31；P2 等级 12，获得 $12，手头 $12；P3 等级 5，获得 $5，手头 $44；P4 等级 9，获得 $9，手头 $39。
+第 6 回合（时代 2）。顺位：P1 → P3 → P4 → P2。
+P1 铺设（Erie）：4分管道 Buffalo—Bradford & Olean（从Clarksburg Coal/Iron购买铁，支付 $3）。这块油田已经揭开。油田加上 1 桶，现有 3 桶。
+P1 在 Buffalo 建造 炼钢 IV（Buffalo）。造价 $10，从Canada Steel/Coke购买焦炭，支付 $6，从Canada Steel/Coke购买焦炭，支付 $6。 P1 向Clarksburg Coal/Iron补充铁，获得 $3。 P1 向Canada Steel/Coke补充钢，获得 $6，P1 记市场分 2。 P1 向Canada Steel/Coke补充钢，获得 $6，P1 记市场分 4。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 1。 P1 向Eads Bridge Steel/Coke补充钢，获得 $5，P1 记市场分 2。 P1 向Philadelphia Steel/Coke补充钢，获得 $4。 P1 的 Buffalo 炼钢 IV 资源售完，翻面，没有现金或收入。
+P3 在 Wilkes-Barre 建造 煤矿 III（煤/焦炭）。造价 $10，从Clarksburg Coal/Iron购买铁，支付 $3。
+P3 跳过（Detroit），威士忌 2。
+P4 跳过（Wilkes-Barre），威士忌 3。
+P4 跳过（Toledo），威士忌 3。
+P2 铺设（Pittsburgh）：轻轨 Albany—New York（用 P2 在 Bethlehem 的免费煤）。
+P2 铺设（煤/焦炭）：轻轨 Rochester—Albany（用 P2 在 Bethlehem 的免费煤）。道路奖励：收入 +3 格。
+过回合，按收入等级结算：P1 等级 2，获得 $2，手头 $37；P2 等级 13，获得 $13，手头 $25；P3 等级 5，获得 $5，手头 $36；P4 等级 9，获得 $9，手头 $48。
+第 7 回合（时代 2）。顺位：P4 → P2 → P3 → P1。
+P4 跳过（Harrisburg），威士忌 3。
+P4 跳过（Detroit），威士忌 3。
+P2 铺设（煤/焦炭）：轻轨 Albany—Boston（用 P2 在 Bethlehem 的免费煤）。道路奖励：威士忌 +1。
+P2 铺设（煤/焦炭）：轻轨 New York—Boston（用 P2 在 Bethlehem 的免费煤）。 P2 的 Bethlehem 煤矿 III 资源用完，翻面，收入 +5 格。
+P3 跳过（铁/钢），威士忌 3。
+P3 跳过（煤/焦炭），威士忌 3。
+P1 的管道 Buffalo—Bradford & Olean 送出石油，P1 记管道分 4。
+P1 的管道 Buffalo—Bradford & Olean 送出石油，P1 记管道分 4。
+P1 的管道 Buffalo—Bradford & Olean 送出石油，P1 记管道分 4。
+P4 的管道 Pittsburgh—Venango 送出石油，收入 +2 格。
+P4 的管道 Pittsburgh—Venango 送出石油，收入 +2 格。
+P3 的管道 Pittsburgh—Macksburg & Burning Springs 送出石油，P3 记管道分 3。
+P1 售卖 Philadelphia 的 煤油 IV、Baltimore 的 煤油 IV、Baltimore 的 煤油 III、Cleveland 的 煤油 III（Wilkes-Barre）。品质星 6 星，P1 记品质星分 6。。P1 在 Philadelphia 的 煤油 IV 翻面，没有现金或收入；P1 在 Baltimore 的 煤油 IV 翻面，没有现金或收入；P1 在 Baltimore 的 煤油 III 翻面，收入 +5 格；P1 在 Cleveland 的 煤油 III 翻面，收入 +5 格。
+P1 研发，从个人版图移除 煤矿 III、焦炭 I（Chicago）。从Toledo Coal/Iron购买铁，支付 $4，从Toledo Coal/Iron购买铁，支付 $4。
+过回合，按收入等级结算：P1 等级 7，获得 $7，手头 $56；P2 等级 15，获得 $15，手头 $40；P3 等级 5，获得 $5，手头 $41；P4 等级 11，获得 $11，手头 $59。
+第 8 回合（时代 2）。顺位：P4 → P2 → P3 → P1。
+P4 跳过（铁/钢），威士忌 3。
+P4 跳过（铁/钢），威士忌 3。
+P2 跳过（煤油/石油），威士忌 3。
+P2 跳过（煤油/石油），威士忌 3。
+P3 跳过（制造/汽车），威士忌 3。
+P3 跳过（制造/汽车），威士忌 3。
+P1 升级替换 Wilkes-Barre 的 煤矿 II，P1 记产业分 2。 P1 的 Clarksburg 煤矿 III 资源用完，翻面，收入 +5 格。
+P1 在 Wilkes-Barre 建造 交流发电机（煤/焦炭）。造价 $15，用 P1 在 Clarksburg 的免费煤，从Toledo Coal/Iron购买铁，支付 $4。建成即翻面，当前收入×2。
+P1 在 New York 建造 摩天楼 VI（Pittsburgh）。造价 $20，收入 -2，从外部购买钢，支付 $10，从外部购买钢，支付 $10。建成即翻面，没有现金或收入。
+过回合，按收入等级结算：P1 等级 8，获得 $8，手头 $25；P2 等级 15，获得 $15，手头 $55；P3 等级 5，获得 $5，手头 $46；P4 等级 11，获得 $11，手头 $70。
+第 9 回合（时代 2）。顺位：P4 → P2 → P3 → P1。
+P4 跳过（铁/钢），威士忌 3。
+P4 跳过（制造/汽车），威士忌 3。
+时代计分：P4 的重车 Indianapolis—Eads Bridge（Indianapolis 2 + Eads Bridge 2），P4 记连接分 4。
+时代计分：P1 的重车 Harrisburg—Philadelphia（Harrisburg 1 + Philadelphia 0），P1 记连接分 1。
+时代计分：P3 的重车 Cleveland—Pittsburgh（Cleveland 2 + Pittsburgh 2），P3 记连接分 4。
+时代计分：P2 的轻轨 Chicago—Toledo（Chicago 2 + Toledo 3），P2 记连接分 5。
+时代计分：P1 的轻轨 Pittsburgh—Clarksburg（Pittsburgh 2 + Clarksburg 1），P1 记连接分 3。
+时代计分：P1 的轻轨 Baltimore—Clarksburg（Baltimore 1 + Clarksburg 1），P1 记连接分 2。
+时代计分：P2 的轻轨 Chicago—Saginaw（Chicago 2 + Saginaw 2），P2 记连接分 4。
+时代计分：P1 的轻轨 Toledo—Cleveland（Toledo 3 + Cleveland 2），P1 记连接分 5。
+时代计分：P1 的轻轨 Pittsburgh—Harrisburg（Pittsburgh 2 + Harrisburg 1），P1 记连接分 3。
+时代计分：P4 的重车 Indianapolis—Cincinnati（Indianapolis 2 + Cincinnati 2），P4 记连接分 4。
+时代计分：P2 的轻轨 Columbus—Indianapolis（Columbus 0 + Indianapolis 2），P2 记连接分 2。
+时代计分：P1 的重车 Baltimore—The South（Baltimore 1 + The South 2），P1 记连接分 3。
+时代计分：P1 的重车 Cincinnati—The South（Cincinnati 2 + The South 2），P1 记连接分 4。
+时代计分：P3 的重车 Cleveland—Erie（Cleveland 2 + Erie 0），P3 记连接分 2。
+时代计分：P3 的轻轨 Buffalo—Wilkes-Barre（Buffalo 0 + Wilkes-Barre 3），P3 记连接分 3。
+时代计分：P4 的重车 Chicago—Indianapolis（Chicago 2 + Indianapolis 2），P4 记连接分 4。
+时代计分：P3 的重车 Buffalo—Canada（Buffalo 0 + Canada 2），P3 记连接分 2。
+时代计分：P2 的轻轨 New York—Bethlehem（New York 2 + Bethlehem 1），P2 记连接分 3。
+时代计分：P1 的轻轨 Detroit—Toledo（Detroit 1 + Toledo 3），P1 记连接分 4。
+时代计分：P1 的轻轨 Detroit—Canada（Detroit 1 + Canada 2），P1 记连接分 3。
+时代计分：P2 的轻轨 Albany—New York（Albany 2 + New York 2），P2 记连接分 4。
+时代计分：P2 的轻轨 Rochester—Albany（Rochester 0 + Albany 2），P2 记连接分 2。
+时代计分：P2 的轻轨 Albany—Boston（Albany 2 + Boston 0），P2 记连接分 2。
+时代计分：P2 的轻轨 New York—Boston（New York 2 + Boston 0），P2 记连接分 2。
+时代计分：P2 的 Saginaw 煤矿 II，P2 记产业分 2。
+时代计分：P4 的 Saginaw 煤矿 II，P4 记产业分 2。
+时代计分：P2 的 Detroit 煤油 III，P2 记产业分 7。
+时代计分：P2 的 Chicago 煤油 II，P2 记产业分 4。
+时代计分：P4 的 Chicago 制造 III，P4 记产业分 3。
+时代计分：P2 的 Toledo 煤油 II，P2 记产业分 4。
+时代计分：P1 的 Toledo 煤油 III，P1 记产业分 7。
+时代计分：P1 的 Cleveland 煤油 III，P1 记产业分 7。
+时代计分：P3 的 Cleveland 炼钢 II，P3 记产业分 5。
+时代计分：P2 的 Cleveland 煤油 III，P2 记产业分 7。
+时代计分：P4 的 Indianapolis 煤油 II，P4 记产业分 4。
+时代计分：P4 的 Pittsburgh 制造 II（收入等级 11），P4 记产业分 11。
+时代计分：P1 的 Pittsburgh 炼钢 II，P1 记产业分 5。
+时代计分：P3 的 Pittsburgh 制造 II（收入等级 5），P3 记产业分 5。
+时代计分：P1 的 Buffalo 炼钢 IV，P1 记产业分 7。
+时代计分：P3 的 Wilkes-Barre 煤矿 II，P3 记产业分 2。
+时代计分：P1 的 Wilkes-Barre 交流发电机（个人版图空位 11），P1 记产业分 11。
+时代计分：P1 的 Harrisburg 煤矿 II，P1 记产业分 2。
+时代计分：P1 的 Harrisburg 炼钢 II，P1 记产业分 5。
+时代计分：P2 的 Bethlehem 煤矿 III，P2 记产业分 3。
+时代计分：P3 的 Philadelphia 炼钢 II，P3 记产业分 5。
+时代计分：P1 的 Philadelphia 煤油 IV，P1 记产业分 11。
+时代计分：P1 的 Clarksburg 煤矿 III，P1 记产业分 3。
+时代计分：P1 的 New York 摩天楼 VI，P1 记产业分 10。
+时代计分：P4 的 Baltimore 制造 III，P4 记产业分 3。
+时代计分：P1 的 Baltimore 煤油 III，P1 记产业分 7。
+时代计分：P1 的 Baltimore 煤油 IV，P1 记产业分 11。
+P1 wins with 189 VP.
